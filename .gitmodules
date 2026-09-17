@@ -1,5 +1,9 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/litportnet/litportnet.r-universe.dev
 	branch = HEAD
+[submodule "litportFreeProxy"]
+	path = litportFreeProxy
+	url = https://github.com/litportnet/free-proxy-sdk
+	branch = main
+	subdir = packages/r
