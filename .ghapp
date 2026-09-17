@@ -1,0 +1,10 @@
+{
+  "id": 162559100,
+  "created_at": "2026-09-17T18:24:59.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["litportnet.r-universe.dev"]
+}
